@@ -68,6 +68,15 @@ Skilled in frontend development, backend integration, system analysis, and colla
     <br/>
     <i>Tech:</i> PHP, MySQL, HTML, CSS, JavaScript
   </li>
+  <br/>
+
+  <li>
+    <b>Village Administration System (Filament)</b>  
+    (<a href="https://github.com/Dzanax-533/sukamaju-filament.git" target="_blank">Repository</a>)<br/>
+    Web-based village administration system built with Filament Admin Panel, focusing on data management, CRUD operations, and role-based access control.
+    <br/>
+    <i>Tech:</i> Laravel, Filament, PHP, MySQL
+  </li>
 </ul>
 
 <p align="center">
