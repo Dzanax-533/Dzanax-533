@@ -1,11 +1,12 @@
 <div align="center">
-  
-# 👋 Hi, I'm Muis Nuryana
 
-### 🎓 Information Technology Student | 💻 Web Developer | 🚀 Problem Solver
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Muis%20Nuryana&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20Enthusiast&descAlignY=55&descSize=25)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dzanax-533&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Dzanax-533)
-[![GitHub followers](https://img.shields.io/github/followers/Dzanax-533?label=Followers&style=social)](https://github.com/Dzanax-533?tab=followers)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+Livewire+%7C+Filament+%E2%9A%A1;Building+Solutions+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=dzanax-533&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Dzanax-533)
+[![GitHub followers](https://img.shields.io/github/followers/Dzanax-533?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github)](https://github.com/Dzanax-533?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Dzanax-533?label=Stars&style=for-the-badge&color=fbbf24&labelColor=1c1917&logo=github)](https://github.com/Dzanax-533?tab=repositories)
 
 </div>
 
@@ -13,144 +14,235 @@
 
 ## 🚀 About Me
 
-Passionate **Information Technology student** at Suryakancana University with a strong focus on:
-- 🌐 Full-stack web development
-- 💾 Database-driven information systems
-- 🔍 System analysis and design
-- 🤝 Collaborative project development
+```javascript
+const muis = {
+    pronouns: "He" | "Him",
+    location: "Bandung, West Java 🇮🇩",
+    education: {
+        university: "Suryakancana University",
+        major: "Informatics Engineering",
+        year: "2021 - Present"
+    },
+    code: {
+        languages: ["PHP", "JavaScript", "C++", "HTML", "CSS"],
+        backend: ["Laravel", "Livewire", "Filament"],
+        frontend: ["Bootstrap", "Tailwind CSS", "Alpine.js"],
+        database: ["MySQL"],
+        tools: ["Git", "VS Code", "Postman", "Arduino"]
+    },
+    currentFocus: "Building scalable web applications 🎯",
+    askMeAbout: ["Web Dev", "Laravel", "Tech", "Coffee ☕"],
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
-I love building practical solutions using modern technologies and continuously learning through real-world projects. Currently exploring **Laravel ecosystem** and **modern web architectures**.
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pccmuis77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muisnuryana)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_muisssnryn533)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/CQZDPURKU7RBE1)
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI0IDQ4QzM3LjI1NDggNDggNDggMzcuMjU0OCA0OCAyNEM0OCAxMC43NDUyIDM3LjI1NDggMCAyNCAwQzEwLjc0NTIgMCAwIDEwLjc0NTIgMCAyNEMwIDM3LjI1NDggMTAuNzQ1MiA0OCAyNCA0OFoiIGZpbGw9IiNGREFFNEIiLz4KPC9zdmc+Cg==&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 
-### Databases
+### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzanax-533&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzanax-533&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzanax-533&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏢 Halal Certification Information System (Jaspenlal-KP)
-> Web-based system for managing halal certification workflows with comprehensive data management.
-
-**Tech Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-**Key Features:**
-- 📝 Registration & verification system
-- 📅 Scheduling management
-- 📜 Certificate issuance workflow
-- 📊 Structured data management
-
-[![View Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/Jaspenlal-KP)
-
----
-
-### 🛒 Point of Sale System (Livewire)
-> Modern POS application with real-time UI updates and component-based architecture.
-
-**Tech Stack:** `Laravel` `Livewire` `PHP` `MySQL`
-
-**Key Features:**
-- 📦 Product management
-- 💰 Transaction processing
-- ⚡ Real-time UI updates
-- 📱 Responsive design
-
-[![View Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/PointOfSale-Livewire)
-
----
-
-### 📰 Blog CMS Media Kampus FT
-> Content Management System for campus media with article publishing and user management.
-
-**Tech Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-**Key Features:**
-- ✍️ Article publishing
-- 🗂️ Category management
-- 👥 User role system
-- 📊 Admin dashboard
-
-[![View Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
-
----
-
-### 🏘️ Village Administration System (Filament)
-> Web-based administration system with Filament Admin Panel for data management.
-
-**Tech Stack:** `Laravel` `Filament` `PHP` `MySQL`
-
-**Key Features:**
-- 📋 CRUD operations
-- 🔐 Role-based access control
-- 📊 Data management
-- 🎨 Modern admin interface
-
-[![View Repository](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/sukamaju-filament)
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
 <div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dzanax-533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dzanax-533&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
 
-[![Email](https://img.shields.io/badge/Email-pccmuis77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pccmuis77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muis_Nuryana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muisnuryana)
-[![Instagram](https://img.shields.io/badge/Instagram-@_muisssnryn533-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_muisssnryn533)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/CQZDPURKU7RBE1)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzanax-533&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dzanax-533&theme=tokyonight&utcOffset=7" />
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzanax-533&custom_title=Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true)
 
 </div>
 
 ---
 
-## 💡 Fun Facts
+## 🏆 GitHub Trophies
 
-- 🌱 Currently learning advanced Laravel features and modern web architectures
-- 🎯 Goal: Build impactful web applications that solve real-world problems
-- ⚡ I enjoy learning new technologies through hands-on projects
-- 🎓 Active contributor to university projects and open-source initiatives
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=dzanax-533&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Halal Certification System
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=Jaspenlal-KP&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/Jaspenlal-KP)
+
+**🔧 Tech:** `PHP` `MySQL` `JavaScript`
+
+Comprehensive halal certification management system with registration, scheduling, and certificate issuance workflows.
+
+[🔗 View Repository →](https://github.com/Dzanax-533/Jaspenlal-KP)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Point of Sale System
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=PointOfSale-Livewire&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/PointOfSale-Livewire)
+
+**🔧 Tech:** `Laravel` `Livewire` `MySQL`
+
+Modern POS with real-time updates, product management, and transaction processing using Livewire components.
+
+[🔗 View Repository →](https://github.com/Dzanax-533/PointOfSale-Livewire)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📰 Blog CMS Media Kampus
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=BlogCMS_MediaKampus-FT&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
+
+**🔧 Tech:** `PHP` `MySQL` `JavaScript`
+
+Content Management System for campus media featuring article publishing, categories, and user role management.
+
+[🔗 View Repository →](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏘️ Village Administration
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=sukamaju-filament&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/sukamaju-filament)
+
+**🔧 Tech:** `Laravel` `Filament` `MySQL`
+
+Modern administration system with Filament Admin Panel featuring CRUD operations and role-based access control.
+
+[🔗 View Repository →](https://github.com/Dzanax-533/sukamaju-filament)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 What I'm Currently Working On
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Current Focus))
+    Learning
+      Advanced Laravel
+      API Development
+      Database Optimization
+      Cloud Deployment
+    Building
+      Web Applications
+      Open Source Projects
+      University Projects
+    Exploring
+      New Technologies
+      Design Patterns
+      Best Practices
+```
+
+</div>
+
+- 🌱 Mastering advanced Laravel features and architectural patterns
+- 🔨 Building real-world applications that solve actual problems
+- 📚 Contributing to open-source projects and university initiatives
+- 🚀 Exploring cloud technologies and modern DevOps practices
+- 💡 Learning about API design and microservices architecture
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/Dzanax-533/Dzanax-533/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌟 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 💖 Support My Work
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+If you find my projects helpful, consider buying me a coffee! ☕
 
-**Thanks for visiting my profile! Let's connect and build something amazing together!** 🚀
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muisnuryana)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muisnuryana)
+
+---
+
+### ⚡ Quick Stats
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=@dzanax533&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+
+**Thanks for visiting! Let's connect and build something amazing together!** 🚀
+
+<sub>Made with 💙 by Muis Nuryana</sub>
 
 </div>
