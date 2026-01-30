@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=Muis%20Nuryana&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20Enthusiast&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muis%20Nuryana&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20Enthusiast&descAlignY=55&descSize=25)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+Livewire+%7C+Filament+%E2%9A%A1;Building+Solutions+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Web+Developer+💻;Laravel+%7C+Livewire+%7C+Filament+⚡;Building+Solutions+That+Matter+🚀" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dzanax-533&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Dzanax-533)
 [![GitHub followers](https://img.shields.io/github/followers/Dzanax-533?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github)](https://github.com/Dzanax-533?tab=followers)
@@ -84,13 +84,13 @@ const muis = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dzanax-533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dzanax-533&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dzanax-533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dzanax-533&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzanax-533&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dzanax-533&theme=tokyonight&utcOffset=7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzanax-533&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dzanax533&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzanax-533&custom_title=Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzanax-533&custom_title=Muis%20Nuryana's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -100,7 +100,7 @@ const muis = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dzanax-533&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dzanax-533&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -115,25 +115,25 @@ const muis = {
 <td width="50%" valign="top">
 
 ### 🏢 Halal Certification System
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=Jaspenlal-KP&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/Jaspenlal-KP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=Jaspenlal-KP&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/Jaspenlal-KP)
 
 **🔧 Tech:** `PHP` `MySQL` `JavaScript`
 
 Comprehensive halal certification management system with registration, scheduling, and certificate issuance workflows.
 
-[🔗 View Repository →](https://github.com/Dzanax-533/Jaspenlal-KP)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/Jaspenlal-KP)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 Point of Sale System
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=PointOfSale-Livewire&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/PointOfSale-Livewire)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=PointOfSale-Livewire&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/PointOfSale-Livewire)
 
 **🔧 Tech:** `Laravel` `Livewire` `MySQL`
 
 Modern POS with real-time updates, product management, and transaction processing using Livewire components.
 
-[🔗 View Repository →](https://github.com/Dzanax-533/PointOfSale-Livewire)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/PointOfSale-Livewire)
 
 </td>
 </tr>
@@ -142,25 +142,25 @@ Modern POS with real-time updates, product management, and transaction processin
 <td width="50%" valign="top">
 
 ### 📰 Blog CMS Media Kampus
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=BlogCMS_MediaKampus-FT&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=BlogCMS_MediaKampus-FT&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
 
 **🔧 Tech:** `PHP` `MySQL` `JavaScript`
 
 Content Management System for campus media featuring article publishing, categories, and user role management.
 
-[🔗 View Repository →](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏘️ Village Administration
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=sukamaju-filament&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/sukamaju-filament)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=sukamaju-filament&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/sukamaju-filament)
 
 **🔧 Tech:** `Laravel` `Filament` `MySQL`
 
 Modern administration system with Filament Admin Panel featuring CRUD operations and role-based access control.
 
-[🔗 View Repository →](https://github.com/Dzanax-533/sukamaju-filament)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/sukamaju-filament)
 
 </td>
 </tr>
@@ -171,28 +171,6 @@ Modern administration system with Filament Admin Panel featuring CRUD operations
 ---
 
 ## 💼 What I'm Currently Working On
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Current Focus))
-    Learning
-      Advanced Laravel
-      API Development
-      Database Optimization
-      Cloud Deployment
-    Building
-      Web Applications
-      Open Source Projects
-      University Projects
-    Exploring
-      New Technologies
-      Design Patterns
-      Best Practices
-```
-
-</div>
 
 - 🌱 Mastering advanced Laravel features and architectural patterns
 - 🔨 Building real-world applications that solve actual problems
@@ -206,7 +184,11 @@ mindmap
 
 <div align="center">
 
-![Snake Animation](https://raw.githubusercontent.com/Dzanax-533/Dzanax-533/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dzanax-533/Dzanax-533/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dzanax-533/Dzanax-533/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dzanax-533/Dzanax-533/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -216,7 +198,7 @@ mindmap
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -226,20 +208,14 @@ mindmap
 
 ### 💖 Support My Work
 
-If you find my projects helpful, consider buying me a coffee! ☕
+If you find my projects helpful, consider supporting me!
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/muisnuryana)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muisnuryana)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/muisnuryana)
 
 ---
 
-### ⚡ Quick Stats
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@dzanax533&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 **Thanks for visiting! Let's connect and build something amazing together!** 🚀
 
