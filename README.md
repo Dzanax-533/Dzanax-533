@@ -16,7 +16,7 @@
 
 ```javascript
 const muis = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     location: "Bandung, West Java 🇮🇩",
     education: {
         university: "Suryakancana University",
