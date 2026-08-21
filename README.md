@@ -17,11 +17,11 @@
 ```javascript
 const muis = {
     pronouns: "He/Him",
-    location: "Bandung, West Java 🇮🇩",
+    location: "Bogor, West Java 🇮🇩",
     education: {
         university: "Suryakancana University",
         major: "Informatics Engineering",
-        year: "2021 - Present"
+        year: "2022 - 2026"
     },
     code: {
         languages: ["PHP", "JavaScript", "C++", "HTML", "CSS"],
