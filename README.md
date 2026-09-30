@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muis%20Nuryana&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Laravel%20Enthusiast&descAlignY=55&descSize=25)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muis%20Nuryana&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Web+Developer+💻;Laravel+%7C+Livewire+%7C+Filament+⚡;Building+Solutions+That+Matter+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+👋;Full-Stack+Web+Developer;PHP+%26+Laravel+Enthusiast;Building+Amazing+Projects" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dzanax-533&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Dzanax-533)
 [![GitHub followers](https://img.shields.io/github/followers/Dzanax-533?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917&logo=github)](https://github.com/Dzanax-533?tab=followers)
@@ -84,13 +84,13 @@ const muis = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dzanax-533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dzanax-533&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dzanax-533&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dzanax-533&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzanax-533&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dzanax533&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Wakatime Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzanax-533&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dzanax533&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="WakaTime Stats" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dzanax-533&custom_title=Muis%20Nuryana's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dzanax-533&custom_title=Muis%20Nuryana's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -100,7 +100,7 @@ const muis = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dzanax-533&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dzanax-533&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/Dzanax-533)
 
 </div>
 
@@ -126,6 +126,21 @@ Comprehensive halal certification management system with registration, schedulin
 </td>
 <td width="50%" valign="top">
 
+### 💼 Halal Consultant System
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=sistem-konsultan-halal&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/sistem-konsultan-halal)
+
+**🔧 Tech:** `Laravel` `Filament` `MySQL`
+
+Professional halal consultant management system with appointment scheduling, client management, and consultation tracking.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/sistem-konsultan-halal)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 Point of Sale System
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dzanax-533&repo=PointOfSale-Livewire&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Dzanax-533/PointOfSale-Livewire)
 
@@ -136,9 +151,6 @@ Modern POS with real-time updates, product management, and transaction processin
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/PointOfSale-Livewire)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 📰 Blog CMS Media Kampus
@@ -151,6 +163,9 @@ Content Management System for campus media featuring article publishing, categor
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Dzanax-533/BlogCMS_MediaKampus-FT)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🏘️ Village Administration
